@@ -30,10 +30,4 @@ Sysadmin makes easier to administer multidomain Active Directory-based networks 
 
 This software is distributed under the terms of the MIT License (MIT).
 
-### Authors
-
-Igor Markin / [LinkedIn](https://www.linkedin.com/in/igor-markin/)
-
-
-
 Contributions and bugs reports are welcome.
