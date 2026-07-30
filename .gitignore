@@ -39,3 +39,4 @@ src/GenerateADObjects/obj
 *.pubxml
 src/Utils/SetupHelper/bin
 src/Utils/SetupHelper/obj
+/src/.idea
